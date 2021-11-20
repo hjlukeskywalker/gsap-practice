@@ -1,4 +1,4 @@
-.box{ margin: 20px; width:100px; height:100px;}
-.box1{ background:orange}
-.box2{ background: greenyellow;}
-.box3{ background: tomato;}
+.box{ margin: 20px; width:100px; height:100px; text-align: center; line-height: 100px;}
+.box1{ width:100px; height:100px; background:orange}
+.box2{ width:100px; height:100px; background: greenyellow;}
+.box3{ width:100px; height:200px; background: tomato;}
